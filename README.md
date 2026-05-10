@@ -28,4 +28,8 @@ When you run the script it goes through a bunch of steps on its own without you 
 | `hostname`| Shows name of server or computer the script is running on  | To prove what computer is running the script helpful with multi servers |
 | `wc -l`| Counts the number of lines in a file the -l flag specifically tells it to count lines only | Used to count lines of the final report |
 
- 
+ ## How to Run
+```bash
+chmod +x utility.sh
+./utility.sh
+```
