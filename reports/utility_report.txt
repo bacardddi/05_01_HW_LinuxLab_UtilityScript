@@ -1,0 +1,30 @@
+###################################
+MY SCRIPT REPORT
+###################################
+
+Date and time I ran this: Sat, May  9, 2026  7:09:09 PM
+Where I was: /c/Users/daile/Documents/TheoWAF/cloud_fundamentals/05_01_HW_LinuxLab_UtilityScript
+
+Folders I made:
+  - departments
+  - backups
+  - temp (I deleted this one after)
+  - reports
+
+Files I created:
+  - employee_roster.txt
+  - budget_2026.txt
+  - server_inventory.txt
+
+Files I copied to backup folder:
+  - departments folder
+  - employee_roster.txt
+
+File I renamed:
+  - budget_2026.txt is now budget_2026_REVIEWED.txt
+
+Stuff I deleted:
+  - the temp folder
+
+Script is done!
+###################################
